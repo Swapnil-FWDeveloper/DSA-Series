@@ -1,4 +1,4 @@
-// print left the diagonal
+// print left the diagonal output=> a f k p
 let mat=[
         ['a','b','c','d'],
         ['e','f','g','h'],
