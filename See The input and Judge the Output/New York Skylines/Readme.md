@@ -5,7 +5,11 @@ In this question I have provided you the code and value of height and N you have
 check code in index.js and values given below
 
 2
+
 5
+
 1 4 3 2 7
+
 2
+
 1 3
