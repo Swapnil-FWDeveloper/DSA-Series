@@ -1,5 +1,5 @@
 
-let str='Racecar'
+let str='Racecar';
 for(let i=0;i<str.length;i++){
     let bag=''
     for(let j=i;j<str.length;j++){
